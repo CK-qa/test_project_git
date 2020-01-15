@@ -1,7 +1,7 @@
 package com.company;
 
 public class ClassByVBozh_193 {
-    //@CK-qa makes a change in this fileinitial change by @vbozh
+    //another change by @vbozh
 
-    //@CK-qa change2
+    //one more change by @VBozh
 }
