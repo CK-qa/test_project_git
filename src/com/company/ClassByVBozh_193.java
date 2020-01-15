@@ -1,5 +1,7 @@
 package com.company;
 
 public class ClassByVBozh_193 {
-    //initial change by @vbozh
+    //another change by @vbozh
+
+    //one more change by @VBozh
 }
