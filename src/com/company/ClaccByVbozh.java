@@ -2,5 +2,7 @@ package com.company;
 
 public class ClaccByVbozh {
 
-    //modified line by CK-qa
+    //some text here by vbozh
+
+    //change this file
 }
