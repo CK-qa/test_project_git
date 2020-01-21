@@ -5,4 +5,6 @@ public class ClassB {
     //1
 
     //2
+
+    //3
 }
